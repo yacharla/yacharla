@@ -1,5 +1,5 @@
 ## Hi there 👋
-1508 박예완 대구과학고등학교
+2409 박예완 대구과학고등학교
 
 <!--
 **yacharla/yacharla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
